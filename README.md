@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaziyasherin
 - 👀 I’m interested in Data science,Data analytics,Machine learning
-- 🌱 I’m currently learning proficiency in phython,mysql,tableau
+- 🌱 Proficiency in ML algorithms, NLP, Python,mysql,tableau, Power BI
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me email: sherinshazu@gmail.com
 
